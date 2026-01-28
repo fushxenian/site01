@@ -1,5 +1,5 @@
-# @Author: Zhaikai Liu (Optimized for Desktop)
-# @Timestamp: 2026-01-26
+# @Author: WenCong Wu (Optimized for Desktop)
+# @Timestamp: 2026-01-16
 
 # 1. 路径自动配置 ----------------------------------------------------------
 # 自动获取当前用户的桌面路径（兼容Windows/Mac/Linux）
